@@ -11,6 +11,8 @@
 #### charles duhigg
 ![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/Presentation-1/master/charles%20duhigg.jpg)
 
+---
+
 @ol
 - Charles Duhigg (lahir 1974) adalah seorang jurnalis dan penulis non-fiksi Amerika pemenang penghargaan Pulitzer. Dia adalah seorang reporter untuk The New York Times dan penulis dua buku tentang kebiasaan dan produktivitas, berjudul The Power of Habit: Mengapa Kita Melakukan Apa yang Kita Lakukan dalam Hidup dan Bisnis dan Lebih Cepat Lebih Cepat Lebih Baik.
 
@@ -27,10 +29,12 @@
 
 ---
 #####  Buku dibagi menjadi 3 segment yang sebenarnya saling terkait:
-![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/Presentation-1/master/12609433.jpg)
+![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/Presentation-1/master/habit-loop.png)
 
+---
 @ol
 - kebiasaan perorangan
 - kebiasaan organisasi
 - kebiasaan komunitas
 
+---

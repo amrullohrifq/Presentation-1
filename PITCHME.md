@@ -44,12 +44,22 @@
 ##### Lalu bagimana cara kerja kebiasaan itu?
 @ol
 - Kebiasaan dimulai dari sebuah isyarat / tanda untuk bisa mencapai suatu reward tertentu.
+
+---
 ##### bagimana cara membuat kebiasaan ?
 @ol
 - tentukan isyarat/tanda kemudian tentukan reward  kemudian nikmati.
+
+---
 ##### bisa tidak kebiasaan di rubah?
 @ol
 - akan sulit namun yakin lah.
 
 ---
-
+### guide ?
+@ol
+- identifikasi
+- lihat reward
+- temukan tanda
+- susun rencana
+---

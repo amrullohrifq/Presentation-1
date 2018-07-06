@@ -1,5 +1,6 @@
-###Firts Presentation
+##Firts Presentation
 THE POWER OF HABIT
+! [Flux Explained] (https://images.gr-assets.com/books/1366758683l/12609433.jpg)
 
 
 
@@ -13,4 +14,4 @@ THE POWER OF HABIT
 
 ---
 
-! [Flux Explained] (https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+

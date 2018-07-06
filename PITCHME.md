@@ -1,6 +1,6 @@
 ##Firts Presentation
 THE POWER OF HABIT
-! [Flux Explained] (https://images.gr-assets.com/books/1366758683l/12609433.jpg)
+! [Flux Explained] (https://raw.githubusercontent.com/amrullohrifq/Presentation-1/master/12609433.jpg)
 
 
 
